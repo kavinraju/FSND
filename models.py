@@ -6,7 +6,7 @@ import os
 database_name = "demodb"
 username = "postgres"
 password = 'skr123'
-database_path = "postgres://{}:{}@{}/{}".format(username, password, 'localhost:5432', database_name)
+database_path = 'postgres://oumxopmevydvld:3387734dfedfb6ab1ccc9912db1f6f4089c80460bc8ca9ec7d91ac31052f5e16@ec2-52-71-55-81.compute-1.amazonaws.com:5432/deve3jnt51h5oi'
 
 # database_path = os.environ['DATABASE_URL']
 
